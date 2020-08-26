@@ -1,0 +1,14 @@
+{
+    "name": "ramphor/web-app-manifest",
+    "description": "The manifest also allows developers to declare a default screen orientation for your web application",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ramphor Premium",
+            "email": "puleeno@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
